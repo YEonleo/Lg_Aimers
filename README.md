@@ -11,7 +11,7 @@ ${PROJECT}
 │   ├── datasets.py
 │   └── model.py
 ├── results/
-│   ├── serial/
+│   └── serial/
 ├── README.md
 ├── train.py
 └── inf.py
